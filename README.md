@@ -4,12 +4,12 @@
   </p>
 </div>
 
-| ![Bahriddin's github stats](https://github-readme-stats.vercel.app/api?username=bahriddin-m&show_icons=true&theme=tokyonight) | ![Bahriddin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bahriddin-m&theme=tokyonight) |
+| ![Bahriddin's github stats](https://github-readme-stats.vercel.app/api?username=bahriddeen&show_icons=true&theme=tokyonight) | ![Bahriddin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bahriddeen&theme=tokyonight) |
 |-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 
 <h2 align="center">Visitor's Count</h2>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/bahriddin-m/count.svg" alt="visitor badge"/>
+  <img src="https://profile-counter.glitch.me/bahriddeen/count.svg" alt="visitor badge"/>
 </p>
 
 <p align="center">
